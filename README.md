@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @miho031
 - 👀 I’m interested in football
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on valorant premiere
 - 📫 How to reach me dont
 
 <!---
